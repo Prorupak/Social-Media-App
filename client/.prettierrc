@@ -1,0 +1,63 @@
+{
+  "bracketSpacing": true,
+  "jsxBracketSameLine": true,
+  "printWidth": 80,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "endComma": "none",
+  "tabWidth": 2,
+  "useTabs": false,
+  "react/jsx-max-props-per-line": [
+    1,
+    {
+      "when": "always"
+    }
+  ],
+  "endOfLine": "crlf",
+  "react/jsx-wrap-multilines": [
+    2,
+    {
+      "declaration": true,
+      "assignment": true,
+      "return": true,
+      "arrow": true
+    }
+  ],
+  "react/jsx-indent-props": [
+    2,
+    2
+  ],
+  "react/jsx-indent": [
+    2,
+    2
+  ],
+  "react/jsx-closing-bracket-location": [
+    2,
+    "line-aligned"
+  ],
+  "react/jsx-curly-spacing": [
+    2,
+    {
+      "when": "never",
+      "children": true,
+      "spacing": {
+        "objectLiterals": "never"
+      }
+    }
+  ],
+  "react/jsx-no-duplicate-props": [
+    2,
+    {
+      "ignoreCase": true
+    }
+  ],
+  "react/jsx-no-undef": 2,
+  "react/jsx-pascal-case": 2,
+  "react/jsx-uses-react": 2,
+  "react/jsx-uses-vars": 2,
+  "react/jsx-no-bind": 2,
+  "react/jsx-no-comment-textnodes": 2,
+  "react/jsx-sort-props": 2,
+  "react/jsx-sort-prop-types": 2,
+  "react/jsx-no-target-blank": 2
+}
